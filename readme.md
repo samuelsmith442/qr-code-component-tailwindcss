@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/nft-preview-card-using-tailwindcss-NOAAcejkKX
+- Solution URL: https://www.frontendmentor.io/solutions/qrcodecomponenttailwindcss-sheDVOQSzU
 - Live Site URL: https://glowing-faun-9201bf.netlify.app/
 
 ## My process
